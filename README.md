@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently, I am an apprentice in systems development.<br>🌱 I’m currently learning Java and some other backend languages.<br>⚡ Facts: I like music and games.
+🔭 I'm currently an apprentice in systems development.<br>🌱 I’m currently learning Java and some other backend languages.<br>⚡ Facts: I like music and games.
 
 
 # 💻 Tech Stack:
